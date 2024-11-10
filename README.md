@@ -1,0 +1,1 @@
+Market Basket Analysis with Product Recommendations analyzes transactional data for relationships between products often bought together. It helps extract actionable patterns from customer behavior through algorithms such as Apriori or FP-Growth, allowing a company to give tailored product recommendations and refine sales strategies.
